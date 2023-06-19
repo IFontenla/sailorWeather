@@ -1,0 +1,58 @@
+body{
+  background-color: cadetblue;
+}
+
+.App {
+  text-align: center;
+}
+
+.input-group {
+  width: 70%;
+}
+
+.not-found {
+  padding: 15em;
+  background-image: url("/pepeMeditating.jpg");
+  background-size:cover;
+  background-repeat: no-repeat;
+  width:600px;
+  height:580px;
+  border-radius: 5rem;
+}
+
+.board {
+  max-width: 80%;
+}
+
+.latlon {
+  position: absolute;
+  padding: 20px;
+}
+
+.date {
+  position: absolute;
+  padding-left: 20px;
+  margin-top: 60px;
+}
+
+.temp {
+  position: absolute;
+  padding-left: 20px;
+  margin-top: 400px;
+  font-size: 58px;
+}
+
+.tiempo {
+  position: absolute;
+  padding-left: 20px;
+  margin-top: 480px;
+}
+
+ .login-wrapper {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 3rem;
+  margin-top: 10%;
+}
